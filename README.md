@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luckymilo
 - 👀 I’m interested in salsa dance, photography, and learning languages.
-- 🌱 I’m currently learning Spanish and Google Analytics.
+- 🌱 I’m currently learning Google Analytics.
 - 💞️ I’m looking to collaborate on anything data analytics.
 - 📫 How to reach me, email: luckymet@gmail.com
 
